@@ -1,1 +1,1 @@
-web:gunicorn Project1.wsg
+web: gunicorn Project1.wsg
